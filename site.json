@@ -11,7 +11,7 @@
   },
   "theme": {
     "template": "kurumsal",
-    "preset": "gece",
+    "preset": "kar",
     "font": "modern",
     "radius": 16,
     "primary": "",
