@@ -20,12 +20,12 @@
   "banner": {
     "headline": "Test Nakliyat",
     "subline": "Bir cümleyle ne yaptığınızı anlatın.",
-    "image": "",
+    "image": "assets/84bf78c7abc4aedd.webp",
     "cta_text": "Hemen Ara",
     "cta_link": "tel:",
     "cta2_text": "WhatsApp",
     "cta2_link": "",
-    "overlay": 55
+    "overlay": 37
   },
   "about": {
     "title": "Hakkımızda",
