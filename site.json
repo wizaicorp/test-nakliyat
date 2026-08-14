@@ -10,7 +10,7 @@
     "lang": "tr"
   },
   "theme": {
-    "template": "hizmet",
+    "template": "kurumsal",
     "preset": "gece",
     "font": "modern",
     "radius": 16,
