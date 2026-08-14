@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "site": {
+    "name": "Test Nakliyat",
+    "title": "Test Nakliyat",
+    "slogan": "Kısa ve çarpıcı sloganınız buraya",
+    "description": "Test Nakliyat — güvenilir hizmet, uygun fiyat.",
+    "logo": "",
+    "favicon": "",
+    "lang": "tr"
+  },
+  "theme": {
+    "template": "hizmet",
+    "preset": "gece",
+    "font": "modern",
+    "radius": 16,
+    "primary": "",
+    "accent": ""
+  },
+  "banner": {
+    "headline": "Test Nakliyat",
+    "subline": "Bir cümleyle ne yaptığınızı anlatın.",
+    "image": "",
+    "cta_text": "Hemen Ara",
+    "cta_link": "tel:",
+    "cta2_text": "WhatsApp",
+    "cta2_link": "",
+    "overlay": 55
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "text": "Firmanızı birkaç cümleyle tanıtın. Kaç yıldır bu işi yaptığınız, farkınızın ne olduğu müşteriye güven verir.",
+    "image": "",
+    "stats": [
+      {
+        "value": "10+",
+        "label": "Yıllık Tecrübe"
+      },
+      {
+        "value": "500+",
+        "label": "Mutlu Müşteri"
+      },
+      {
+        "value": "7/24",
+        "label": "Destek"
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": "1948aba5",
+      "icon": "⚡",
+      "title": "Hizmet Bir",
+      "text": "Bu hizmeti kısaca anlatın.",
+      "image": ""
+    },
+    {
+      "id": "3392efce",
+      "icon": "🛡️",
+      "title": "Hizmet İki",
+      "text": "Bu hizmeti kısaca anlatın.",
+      "image": ""
+    },
+    {
+      "id": "b55b7fc5",
+      "icon": "🚚",
+      "title": "Hizmet Üç",
+      "text": "Bu hizmeti kısaca anlatın.",
+      "image": ""
+    }
+  ],
+  "products": [],
+  "gallery": [],
+  "contact": {
+    "phone": "05530930325",
+    "whatsapp": "05530930325",
+    "email": "wizaicorp@gmail.com",
+    "address": "",
+    "map_query": "",
+    "hours": [
+      {
+        "day": "Pazartesi - Cuma",
+        "time": "09:00 - 18:00"
+      },
+      {
+        "day": "Cumartesi",
+        "time": "09:00 - 14:00"
+      },
+      {
+        "day": "Pazar",
+        "time": "Kapalı"
+      }
+    ],
+    "form_endpoint": ""
+  },
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "linkedin": ""
+  },
+  "sections": {
+    "order": [
+      "banner",
+      "services",
+      "about",
+      "products",
+      "gallery",
+      "contact"
+    ],
+    "enabled": {
+      "banner": true,
+      "services": true,
+      "about": true,
+      "products": true,
+      "gallery": true,
+      "contact": true
+    }
+  },
+  "seo": {
+    "keywords": "",
+    "og_image": ""
+  }
+}
