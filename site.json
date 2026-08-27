@@ -69,7 +69,22 @@
       "image": ""
     }
   ],
-  "products": [],
+  "products": [
+    {
+      "id": "93538e38",
+      "slug": "beyaz-kagit",
+      "name": "Beyaz Kağıt",
+      "desc": "",
+      "price": "9",
+      "currency": "₺",
+      "category": "Kağıt",
+      "badge": "Yeni",
+      "link": "",
+      "images": [
+        "assets/3546a15e21c14f39.webp"
+      ]
+    }
+  ],
   "gallery": [],
   "contact": {
     "phone": "05530930325",
